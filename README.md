@@ -133,7 +133,3 @@ This project is intended for educational and personal expense-tracking purposes.
 **Shivam Tripathi**
 
 GitHub: [@Shivamtripathi78](https://github.com/Shivamtripathi78)
-
-## License
-
-This project is open for learning and personal use. If you intend to distribute or reuse it publicly, consider adding a formal license, such as the MIT License.
